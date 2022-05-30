@@ -1,0 +1,1 @@
+alert("Your order is accepted")

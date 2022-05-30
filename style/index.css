@@ -1,0 +1,23 @@
+#navbar{
+    border: 1px solid red;
+    display: flex;
+    justify-content: end;
+}
+#coffee_count{
+    border: 1px solid blue;
+    width: 50px;
+}
+#box{
+    border: 1px solid red;
+    
+}
+#menu{
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 20px;
+}
+.image{
+    height: 200px;
+    width: 350px;
+}
